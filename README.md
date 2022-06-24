@@ -1,3 +1,3 @@
 # Salle de Cons 
 
-Content pages for la Salle de Cons
+Easy URL for this page: https://tinyurl.com/salle-de-cons
