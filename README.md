@@ -35,7 +35,8 @@ Each salon has:
 
 ## Code of conduct
 
-TODO
+* No political debates. Creative projects that address political topics are welcome, because everything is political, but we don't want things to digress into an exclusively political focus.  Keep the focus on the work being presented, and, if necessary, discuss the political details afterwards.
+* No racism, sexism, homophobia, transphobia, ableism, ageism, or other such BS. 
 
 ## Contact
 
