@@ -18,12 +18,12 @@ The name is inspired by:
 
 ## Format
 
-30 min - Food and mingle
-1 hour - Structured (pre-planned) ~15 minute presentations of arts, ideas, projects. There will be 2-3 presenters and time for audience feedback / interaction, if desired by the presenter. 
-30 min - Open mic time. Each slot is 5 minutes.
-1 hour - Creative collaboration time
--------------
-Total time 3 hours
+* 30 min - Food and mingle
+* 1 hour - Structured (pre-planned) ~15 minute presentations of arts, ideas, projects. There will be 2-3 presenters and time for audience feedback / interaction, if desired by the presenter. 
+* 30 min - Open mic time. Each slot is 5 minutes.
+* 1 hour - Creative collaboration time
+
+Total time: 3 hours
 
 ## Logistics
 
